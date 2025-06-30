@@ -1,3 +1,11 @@
+🎓 Ova verzija repozitorija je forkovana od:
+https://github.com/taldatech/ee046746-computer-vision
+
+Originalni autor: T. Alon  
+Licenca: MI
+
+
+
 # ee046746-computer-vision
 
 <h1 align="center">
